@@ -28,7 +28,7 @@ A web-based platform that connects food donors with individuals and organization
 7. Launch local server with `php artisan serve`
 
 ## API Documentation  
-[Postman Collection – Food Donation API](https://www.postman.com/your-workspace-link)
+[Postman Collection – Food Donation API]([https://www.postman.com/your-workspace-link](https://www.postman.com/lucbanze/workspace/food-donation-platform))
 
 ## Live Demo  
 _Coming soon_ (deployment planned on Render/DigitalOcean)
